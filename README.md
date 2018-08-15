@@ -12,11 +12,8 @@ user: anonymous<br><br>
 
 # usage
 ## GEOuploader<br>
-* single file in provided folder<br>
 ./GEOuploader.sh file folder<br>
-* multiple file in current folder<br>
-for i in \*; do upload.sh $i ${PWD##\*/}; done<br><br>
+
 
 ## PUBuploader<br>
-* single file<br>
 ./PUBuploader.sh file<br>
